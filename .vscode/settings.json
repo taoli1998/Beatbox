@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "ledmatrix.h": "c",
+        "function.h": "c",
+        "audiomixer.h": "c",
+        "beatgeneration.h": "c",
+        "asoundlib.h": "c",
+        "i2c-dev.h": "c"
+    }
+}
